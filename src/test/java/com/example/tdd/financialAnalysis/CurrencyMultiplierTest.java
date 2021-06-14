@@ -4,7 +4,7 @@ package com.example.tdd.financialAnalysis;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-class CurrencyMultiplier {
+class CurrencyMultiplierTest {
 
 
     @Test
